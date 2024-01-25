@@ -1,6 +1,0 @@
-gzip
-ssl
-os
-json
-requests
-websocket-client
