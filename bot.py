@@ -5,9 +5,7 @@
 #باسورد الحسابات (hhhh)
 #الاداه تطول لما تسوي حسابات شغل vpn لاتيفيا ونام
 
-from t import keep_alive
 
-keep_alive()
 
 import websocket
 import ssl
@@ -33,7 +31,7 @@ G = '\033[1;32m'
 R = '\033[1;31m'
 id ='1308075085'
 os.system('clear')
-token ="6052866605:AAGwbFyAhI6TYPUpxrnRftDf2a1k1o8dkcg"
+token ="6112117034:AAGSkNY_kWXM_zqqoJn4q_O_Z3Cku0--HfY"
 os.system('clear')
 
 import time 
